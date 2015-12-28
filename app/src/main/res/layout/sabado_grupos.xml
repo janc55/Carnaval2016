@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="@string/grupo1"
+            android:id="@+id/btGrupo1"
+            android:layout_weight="1"
+            android:background="@color/ligthGreen700"
+            android:layout_margin="5dp"
+            android:padding="5dp"
+            android:textSize="25sp"
+            android:onClick="onClickGrupo1"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="@string/grupo2"
+            android:id="@+id/btGrupo2"
+            android:layout_weight="1"
+            android:background="@color/teal500"
+            android:padding="0dp"
+            android:layout_margin="5dp"
+            android:textSize="25sp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="@string/grupo3"
+            android:id="@+id/btGrupo3"
+            android:layout_weight="1"
+            android:background="@color/lime500"
+            android:layout_margin="5dp"
+            android:textSize="25sp"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="@string/grupo4"
+            android:id="@+id/btGrupo4"
+            android:layout_weight="1"
+            android:background="@color/orange600"
+            android:layout_margin="5dp"
+            android:textSize="25sp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="@string/grupo5"
+            android:id="@+id/btGrupo5"
+            android:layout_weight="1"
+            android:background="@color/red800"
+            android:layout_margin="5dp"
+            android:textSize="25sp"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="@string/grupo6"
+            android:id="@+id/btGrupo6"
+            android:layout_weight="1"
+            android:background="@color/purple700"
+            android:layout_margin="5dp"
+            android:textSize="25sp"/>
+    </LinearLayout>
+</LinearLayout>

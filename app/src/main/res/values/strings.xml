@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Carnaval de Oruro 2016</string>
+    <string name="sabado_main">sabado</string>
+    <string name="domingo_main">domingo</string>
+    <string name="recorrido_main">recorrido</string>
+    <string name="grupo1">grupo 1</string>
+    <string name="grupo2">grupo 2</string>
+    <string name="grupo3">grupo 3</string>
+    <string name="grupo4">grupo 4</string>
+    <string name="grupo5">grupo 5</string>
+    <string name="grupo6">grupo 6</string>
+    <string name="siguiente">siguiente</string>
+
+    <string-array name="grupo_1">
+
+        <item>Gran Tradicional Auténtica "Diablada Oruro". </item>
+        <item>Fraternidad Hijos del Sol "Los Incas".</item>
+        <item>Conjunto Folklórico Morenada "Zona Norte".</item>
+        <item>Fraternidad Artística "Zampoñeros Hijos del Pagador".</item>
+        <item>Centro Tradicional "Negritos del Pagador".</item>
+        <item>Conjunto Folklórico "Ahuatiris".</item>
+        <item>Conjunto Waca Wacas "San Agustín-Derecho".</item>
+        <item>Fraternidad Morenada "Central Oruro"</item>
+        <item>Conjunto Caporales Infantiles "Ignacio León".</item>
+    </string-array>
+
+    <string-array name="grupo_2">
+
+        <item>Conjunto Tradicional Folklórico "Diablada Oruro". </item>
+        <item>Conjunto Tradicional Llamerada "Zona Norte".</item>
+        <item>Fraternidad Caporales "Centralistas".</item>
+        <item>Fraternidad Morenada Central fundada por la Comunidad Cocanis.</item>
+        <item>Conjunto Folklórico Tobas "Zona Sud".</item>
+        <item>Conjunto Negritos "Unidos de la Saya".</item>
+        <item>Conjunto Wacatokori "Urus".</item>
+        <item>Conjunto Folklórico "Antawara".</item>
+        <item>Conjunto Folklórico Tinkus "Los Tolkas".</item>
+
+    </string-array>
+
+    <string-array name="grupo_3">
+
+        <item>Fraternidad Artística y Cultural "La Diablada".</item>
+        <item>Conjunto Morenada "Mejillones". </item>
+        <item>Fraternidad Folklórica "Llamerada Socavón".</item>
+        <item>Conjunto Folklórico y Cultural "Phujllay Oruro".</item>
+        <item>Grupo de Danza Estilizada "Suri Sicuri".</item>
+        <item>Conjunto Folklórico "Sambos Caporales".</item>
+        <item>Fraternidad "Cullaguada Oruro".</item>
+        <item>Fraternidad Tobas "Zona Central".</item>
+        <item>Conjunto Folklórico de Zampoñas "Kory Majtas".</item>
+         
+    </string-array>
+
+    <string-array name="grupo_4">
+
+        <item>Diablada "Ferroviaria".</item>
+        <item>Fraternidad Reyes Morenos "Ferrari Ghezzi".</item>
+        <item>Caporales Reyes de la Tuntuna "ENAF".</item>
+        <item>Conjunto Tinkus "Los Jairas de Oruro".</item>
+        <item>Fraternidad Cullaguada "Terribles Quirquinchos".</item>
+        <item>Fraternidad "Kallawayas Bolivia".</item>
+        <item>Conjunto "Potolos Chayata Jhilancos".</item>
+        <item>Conjunto Folklórico y Cultural "Doctorcitos Itos".</item>
+        <item>Fraternidad de Danza Estilizada "Inti Llajta".</item>
+         
+    </string-array>
+
+    <string-array name="grupo_5">
+
+        <item>Diablada Artística "Urus".</item>
+        <item>Fraternidad Cultural Reyes Morenos "Comibol".</item>
+        <item>Conjunto Artístico y Cultural Tobas "Uru Uru".</item>
+        <item>Fraternidad Folklórica y Cultural Caporales "San Simón".</item>
+        <item>Conjunto Autóctono "Wititis".</item>
+        <item>Conjunto Tinkus "Huajchas".</item>
+        <item>Incas Kollasuyo "Hijos del Socavón".</item>
+        <item>Tarqueada "Jatun Jallpa".</item>
+
+    </string-array>
+
+    <string-array name="grupo_6">
+
+        <item>Fraternidad Morenada Metalúrgica "ENAF".</item>
+        <item>Centro Cultural "Rikjchary Llajta".</item>
+        <item>Conjunto Universitario "Suri".</item>
+        <item>Conjunto "Kantus Sartañani".</item>
+        <item>Fraternidad Capolares "CBN".</item>
+        <item>Grupo Cultural Autóctono "Sumaj Punchay".</item>
+        <item>Fraternidad Cultural "Tinkus Bolivia".</item>
+        <item>Fraternidad Folklórica Artística y Cultural "Phujllay".</item>
+         
+    </string-array>
+
+</resources>
